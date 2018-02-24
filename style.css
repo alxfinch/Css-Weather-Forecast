@@ -9,6 +9,7 @@ body div {
 	   -moz-box-sizing: border-box;
 	        box-sizing: border-box;
 	background-color: #3399CC;
+	height: 100vh;
 }
 body {
 	background-color: #2B81AC;
@@ -103,7 +104,7 @@ p {
 	margin-left: 20%;
 	color: #DCDCDC;
 	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-bottom: 0px;
 }
 ul:hover li:not(:hover) {
 	opacity: 0.7;
